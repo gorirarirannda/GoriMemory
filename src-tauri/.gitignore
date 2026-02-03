@@ -1,0 +1,9 @@
+# --- Tauri / Rust ---
+/src-tauri/target/
+Cargo.lock
+
+# --- Node / Frontend ---
+node_modules/
+build/
+dist/
+.DS_Store
