@@ -1,0 +1,18 @@
+[
+  {
+    "id": "q1",
+    "mode": "selection",
+    "question": "Rustのマスコットキャラクターの名前は？",
+    "options": ["Ferris", "Rustacean", "Crabby", "Rusty"],
+    "answer": "Ferris",
+    "explanation": "カニのFerrisです。"
+  },
+  {
+    "id": "q2",
+    "mode": "math_simple",
+    "question": "1 + 1 = ?",
+    "display_answer": "2",
+    "answer": "2",
+    "auto_grade": true
+  }
+]
